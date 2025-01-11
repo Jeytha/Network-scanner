@@ -1,4 +1,4 @@
-# Network-scanner
+# Port Scanner
 The project aims to provide a simple tool to detect open ports, check for known vulnerabilities using the IANA database, and offer suggestions for securing these ports.
 
 # Problem Statement: Open ports are a common attack vector for malicious actors. Improperly configured ports can expose systems to unauthorized access and exploits.
