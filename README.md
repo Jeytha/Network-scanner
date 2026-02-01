@@ -23,4 +23,7 @@ The backend starts scanning ports (one thread per port). Open ports are displaye
 Results can be saved to a file.
 
 
+---
+## ❤️ Author
 
+Created by **Jeytha Sahana** 
